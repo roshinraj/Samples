@@ -1,0 +1,90 @@
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\roslyn\csc.exe
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\roslyn\System.Collections.Immutable.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\roslyn\System.Reflection.Metadata.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\roslyn\vbc.exe
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\roslyn\VBCSCompiler.exe
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\roslyn\VBCSCompiler.exe.config
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\MVC-AngularTree.dll.config
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\MVC-AngularTree.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\MVC-AngularTree.pdb
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\Microsoft.Web.Infrastructure.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\Newtonsoft.Json.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Net.Http.Formatting.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Helpers.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Http.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Http.WebHost.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Mvc.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Razor.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Webpages.Deployment.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Webpages.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Webpages.Razor.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Razor.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Webpages.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Webpages.Deployment.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Webpages.Razor.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Helpers.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Mvc.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\Newtonsoft.Json.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Net.Http.Formatting.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Http.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\System.Web.Http.WebHost.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\obj\Debug\MVC-AngularTree.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\obj\Debug\MVC-AngularTree.pdb
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\EntityFramework.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\EntityFramework.SqlServer.dll
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\EntityFramework.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\bin\EntityFramework.SqlServer.xml
+E:\TrialProjects\MVC-AngularTree\MVC-AngularTree\obj\Debug\MVC-AngularTree.csprojResolveAssemblyReference.cache
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\roslyn\csc.exe
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\roslyn\System.Collections.Immutable.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\roslyn\System.Reflection.Metadata.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\roslyn\vbc.exe
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\roslyn\VBCSCompiler.exe
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\roslyn\VBCSCompiler.exe.config
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\MVC-AngularTree.dll.config
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\MVC-AngularTree.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\MVC-AngularTree.pdb
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\EntityFramework.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\EntityFramework.SqlServer.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\Microsoft.Web.Infrastructure.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\Newtonsoft.Json.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Net.Http.Formatting.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Helpers.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Http.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Http.WebHost.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Mvc.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Razor.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Webpages.Deployment.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Webpages.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Webpages.Razor.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\EntityFramework.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\EntityFramework.SqlServer.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Razor.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Webpages.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Webpages.Deployment.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Webpages.Razor.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Helpers.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Mvc.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\Newtonsoft.Json.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Net.Http.Formatting.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Http.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\bin\System.Web.Http.WebHost.xml
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\obj\Debug\MVC-AngularTree.csprojResolveAssemblyReference.cache
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\obj\Debug\MVC-AngularTree.dll
+D:\MyProjects\Samples\ASP.NET MVC- AngularJS Treeview\C#\MVC-AngularTree\obj\Debug\MVC-AngularTree.pdb

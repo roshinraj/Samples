@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Angular Treeview</h2>
+
+<div ng-controller="myController as ctrl" style="padding:20px;">
+    <span><b>Selected Node</b> : {{ngTree.CurrentNode.RoleName}}</span>
+    <hr />
+    <div tree-view="true"
+         tree-id="ngTree"
+         tree-model="RoleList"
+         node-id="RoleID"
+         node-label="RoleName"
+         node-children="Children"
+         node-click ="ctrl.OnSelectNode">
+    </div>
+    <span><a class="btn" ng-click="ctrl.AddNode()">Add Node</a></span>
+</div>
